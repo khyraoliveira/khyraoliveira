@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olar, eu sou Khyra! Acompanhe meu GitHub 💻👑
 
 <div align="center">
   <a href="https://github.com/khyraoliveira">
