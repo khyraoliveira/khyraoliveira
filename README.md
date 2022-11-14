@@ -19,7 +19,7 @@ Em menos de 1 ano estudando programação, realizei projetos em:
 - HTML;
 - CSS para estilização.
 - Docker;
-
+<br>
 <p align='center'>
   <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=khyraoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
   <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyraoliveira&layout=compact&langs_count=7&theme=react"/> 
