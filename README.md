@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
 
 ## Full Stack Web Developer - formada na Trybe
-Em menos de 1 ano estudando programação, realizei projetos em:
+Com menos de 1 ano estudando programação, realizei projetos em:
 - Python com conceitos POO;
 - Typescript com conceitos POO e SOLID;
 - Javascript;
