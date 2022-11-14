@@ -11,14 +11,15 @@ Com menos de 1 ano estudando programação, realizei projetos em:
 - Python com conceitos POO;
 - Typescript com conceitos POO e SOLID;
 - Javascript;
-- MongoDB
-- NodeJs com ORM Sequelize, CRUD de posts de blogs
-- NodeJs com express, construção de API com arquitetura MSC;
-- MYSQL
+- MongoDB;
+- NodeJs com ORM Sequelize, CRUD de posts de blogs;
+- NodeJs com Express;
+- Construção de API com arquitetura MSC;
+- MYSQL;
 - biblioteca React (também com a biblioteca Redux e Context API);
 - HTML;
-- CSS para estilização.
-- Docker;
+- CSS para estilização;
+- Docker.
 <br>
 <p align='center'>
   <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=khyraoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
