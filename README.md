@@ -12,13 +12,13 @@ Com menos de 1 ano estudando programação, realizei projetos em:
 - Typescript com conceitos POO e SOLID;
 - Javascript;
 - MongoDB;
-- NodeJs com ORM Sequelize, CRUD de posts de blogs;
+- NodeJs com ORM Sequelize;
 - NodeJs com Express;
 - Construção de API com arquitetura MSC;
 - MYSQL;
 - biblioteca React (também com a biblioteca Redux e Context API);
 - HTML;
-- CSS para estilização;
+- CSS;
 - Docker.
 <br>
 <p align='center'>
