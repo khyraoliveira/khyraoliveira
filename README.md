@@ -6,7 +6,7 @@
  <a href="mailto:khyrak@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
 
-## Full Stack Web Developer - formada na Trybe
+## Back end Developer - em formação!
 Com menos de 1 ano estudando programação, realizei projetos em:
 - Python com conceitos POO;
 - Typescript com conceitos POO e SOLID;
