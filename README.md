@@ -8,15 +8,13 @@
 
 ## Back end Developer - em formação!
 Com menos de 1 ano estudando programação, realizei projetos em:
-- Python com conceitos POO;
+- Python;
 - Typescript com conceitos POO e SOLID;
 - Javascript;
 - MongoDB;
-- NodeJs com ORM Sequelize;
 - NodeJs com Express;
-- Construção de API com arquitetura MSC;
 - MYSQL;
-- biblioteca React (também com a biblioteca Redux e Context API);
+- biblioteca React;
 - HTML;
 - CSS;
 - Docker.
