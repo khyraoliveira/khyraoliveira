@@ -8,16 +8,7 @@
 
 ## Back end Developer - em formação!
 Com menos de 1 ano estudando programação, realizei projetos em:
-- Python;
-- Typescript com conceitos POO e SOLID;
-- Javascript;
-- MongoDB;
-- NodeJs com Express;
-- MYSQL;
-- biblioteca React;
-- HTML;
-- CSS;
-- Docker.
+- Python, Javascript, MySQL, Typescript com conceitos POO e SOLID, NodeJs com Express, MongoDB, HTML, CSS, biblioteca React e Docker.
 <br>
 <p align='center'>
   <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=khyraoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
