@@ -8,7 +8,7 @@
 
 ## Back end Developer - em formação!
 Com menos de 1 ano estudando programação, realizei projetos em:
-- Python, Javascript, MySQL, Typescript com conceitos POO e SOLID, NodeJs com Express,
+- Python, Javascript, MySQL, Typescript com conceitos POO, NodeJs com Express,
   MongoDB, HTML, CSS, biblioteca React e Docker.
 <br>
 <p align='center'>
