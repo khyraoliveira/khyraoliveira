@@ -12,11 +12,6 @@ Com menos de 1 ano estudando programação, realizei projetos em:
   MongoDB, HTML, CSS, biblioteca React e Docker.
 <br>
 <p align='center'>
-  <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=khyraoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
-  <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyraoliveira&layout=compact&langs_count=7&theme=react"/> 
-</p>
-
-<p align='center'>
   💻 Linguagens/Tecnologias 💻<br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -30,6 +25,12 @@ Com menos de 1 ano estudando programação, realizei projetos em:
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+<br>
+<p align='center'>
+  <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=khyraoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
+  <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyraoliveira&layout=compact&langs_count=7&theme=react"/> 
+</p>
+
   
 <!--
 **khyraoliveira/khyraoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
